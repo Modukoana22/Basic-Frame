@@ -1,1 +1,1 @@
-This is my first hard-coded gui frame.
+The application shows a basic frame using the JFrame class of Swing.
